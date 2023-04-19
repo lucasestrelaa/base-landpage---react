@@ -1,0 +1,20 @@
+[
+    {
+        "name": "Connect S/A",
+        "identify": "localhost",
+        "logo": "https://cdn-saturno.s3.amazonaws.com/tetis/connect/img/logo_empresa.png",
+        "heightLogo": "53px",
+        "title": "Connect S/A - O seu certificado digital..",
+        "linkFavicon": "https://cdn-vulcan.s3.sa-east-1.amazonaws.com/connect/favico_empresa.ico",
+        "urlApi": "https://sistemas.connectsa.com.br/djupiter/",
+        "apiCode":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJDT05ORUNUIFMvQSIsInN1YiI6IkNUIFBsdXMiLCJpYXQiOjE2NjExODA5ODQsImF1ZCI6ImN0cGx1cy1kZXYifQ.mcKmf_2CZzE6CECPWbSDA6Mam0aKhlb8aiyeZWxm8Y0",
+        "ambiente": "D",
+        "titleAba": "Connect S/A",
+        "imgAba": "https://connect.ctplus.com.br/images/logo_connect.png",
+        "titleParceria": "Seja um Parceiro Connect",
+        "descriptionParceria": "Ofereça para seus clientes o Certificado Digital Serasa Experian pelo melhor preço do mercado. Valide as informações fiscais da sua empresa com segurança, redução de custos e mais praticidade.",
+        "facebook": "https://www.facebook.com/connectsaoficial",
+        "instagram": "https://www.instagram.com/connectsaoficial/",
+        "linkedin": "https://www.linkedin.com/company/connectsaoficial"
+    }
+]
