@@ -1,0 +1,25 @@
+.pt-70{
+    padding-top: 70px;
+}
+.mt-70{
+    margin-top: 70px;
+}
+.pb-70{
+    padding-bottom: 70px;
+}
+.mb-70{
+    margin-bottom: 70px;
+}
+.pi-180{
+    padding: 180px 0;
+
+}
+.pi-180{
+    padding: 80px 0;
+}
+.section-a{
+    background-color: aqua;
+}
+.section-b{
+    /* background-color: rgb(1, 73, 255); */
+}

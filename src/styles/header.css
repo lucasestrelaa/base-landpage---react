@@ -1,6 +1,8 @@
 .sobMenu {
-    background-color: rgb(103, 142, 129);
+    background-color: rgb(1, 73, 255);
+    height: 30px;
 }
 .menu{
     background-color: aqua;
+    height: 100px;
 }
