@@ -4,5 +4,16 @@
 }
 .menu{
     background-color: aqua;
-    height: 100px;
+    /* height: 100px; */
+}
+.menu-itens{
+    display: flex;
+    margin: 0 20px;
+}
+.menu-itens li{
+    list-style: none;
+    padding-left: 10px;
+}
+.menu-itens li a{
+    color: #ffffff;
 }

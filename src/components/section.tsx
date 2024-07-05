@@ -16,7 +16,7 @@ const Section = (props: any) => {
     case "banner":
       return (
         <>
-          <div className="text-center">
+          <div className="text-center" id="home">
             <div
               id="carouselExampleSlidesOnly"
               className="carousel slide"
@@ -69,7 +69,7 @@ const Section = (props: any) => {
     case "sessao1":
       return (
         <>
-          <div className="section-a">
+          <div className="section-a" id="sobre">
             <div className="container text-center pt-70 pb-70 ">
               <div className="row pi-180">
                 <div className="col-md-6">
@@ -85,7 +85,7 @@ const Section = (props: any) => {
     case "sessao2":
       return (
         <>
-          <div className="section-b">
+          <div className="section-b" >
             <div className="container text-center pt-70 pb-70">
               <div className="row pi-180">
                 <div className="col-md-6">Imagem</div>
@@ -101,7 +101,7 @@ const Section = (props: any) => {
     case "CTA":
       return (
         <>
-          <div className="section-a">
+          <div className="section-a" id="contato">
             <div className="container text-center pt-70 pb-70">
               <div className="row pi-80">
                 <div className="col-md-12">
@@ -115,7 +115,7 @@ const Section = (props: any) => {
     case "cards":
       return (
         <>
-          <div className="section-b">
+          <div className="section-b" id="produtos">
             <div className="container text-center pt-70 pb-70 ">
               <Card layout={props.layout} />;
             </div>
